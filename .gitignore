@@ -35,5 +35,6 @@ yarn-error.*
 *.tsbuildinfo
 
 # firebase
-google-services.json
-GoogleService-Info.plist
+# google-services.json
+# GoogleService-Info.plist
+credentials.json

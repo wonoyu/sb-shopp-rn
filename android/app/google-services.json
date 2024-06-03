@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "645475823298",
+    "project_id": "shopp-rn-sanbercode",
+    "storage_bucket": "shopp-rn-sanbercode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645475823298:android:21b51c66a4764f0d40955b",
+        "android_client_info": {
+          "package_name": "com.wonoyu.shopp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645475823298-ohr9ectt2gjtd24pl7lfugph5aql82ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wonoyu.shopp",
+            "certificate_hash": "e673e31b53fa44147c87548bcc2edf75a6bfbe24"
+          }
+        },
+        {
+          "client_id": "645475823298-o80k9eavof5d0r16nacg7f3lq0257ftv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNMsQdlyx6CqPaVeDd9Z4NMBYGvJBDihM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645475823298-o80k9eavof5d0r16nacg7f3lq0257ftv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645475823298-6ekk66di10hubj7asktq76nnircp57c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wonoyu.shopp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

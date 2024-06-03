@@ -31,6 +31,12 @@
     "ios": {
       "bundleIdentifier": "com.wonoyu.shopp",
       "googleServicesFile": "./GoogleService-Info.plist"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c22e36b0-15eb-4157-beef-5957b58c1c4a"
+      }
+    },
+    "owner": "wonoyu"
   }
 }
