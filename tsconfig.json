@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "isolatedModules": true,
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["src/*"]
+      },
+    },
+    "extends": "@tsconfig/react-native/tsconfig.json"
+  }
+  
